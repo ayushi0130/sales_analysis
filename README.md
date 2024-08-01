@@ -122,18 +122,23 @@ Here is a basic overview of how to use the contents of this repository:
 ### sales_analysis_data
 
 - Best month for sale:
+  
   <img width="642" alt="sales_month" src="https://github.com/ayushi0130/sales_analysis/assets/128896031/07d2dee0-5480-44ba-9892-ff7e810bc3c2">
 
 - city has highest number of sales:
+  
   ![city_highest_no](https://github.com/ayushi0130/sales_analysis/assets/128896031/b9a6cd60-8790-48f6-85e9-49811596e012)
 
 - time to display the advertisements:
+  
   ![advert_time](https://github.com/ayushi0130/sales_analysis/assets/128896031/0c7f4c1d-3375-4953-b29e-16ae83bc2fe2)
 
 - product often sold together:
+  
   ![prod_sold_together](https://github.com/ayushi0130/sales_analysis/assets/128896031/b0bd0f10-d2bd-48ba-97f9-46d924c9f573)
 
 - product sold the most:
+  
   ![prod_sold_most](https://github.com/ayushi0130/sales_analysis/assets/128896031/db616e8a-bb60-404d-908b-71ea22967054)
 
 ### diwali_analysis_data
